@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/e$ "hello,World" 
+echo > Hello,World
