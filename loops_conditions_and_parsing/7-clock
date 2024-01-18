@@ -7,7 +7,7 @@ do
         echo "Hour: $h"
         while [ $i -le 59 ]
                 do
-                echo "$i
+                echo "$i"
                 i=$(( i+1 ))
                 done
         i=1
